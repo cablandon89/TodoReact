@@ -1,0 +1,12 @@
+.btn {
+  @apply font-bold rounded transition duration-500;
+}
+.btn-blue {
+  @apply bg-primary text-white hover:bg-blue700;
+}
+.btn-green {
+  @apply bg-success text-white hover:bg-green500;
+}
+.btn-red{
+  @apply bg-red600 text-white hover:bg-danger;
+}
