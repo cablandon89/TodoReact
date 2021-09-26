@@ -1,3 +1,7 @@
+# Task list in react js
+It is a list of tasks with persistence in the manager, it has filters for completed, pending and deleted tasks.
+To completely clean this list you must clean the browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
